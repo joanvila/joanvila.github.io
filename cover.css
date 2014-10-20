@@ -27,12 +27,20 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  /*background-color: #333;*/
+  background-image:url('images/fons2.jpg');
 }
 body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+.foto_perfil{
+   width:200px; 
+   height:200px;
+   border-radius:30px;
+   margin-bottom:25px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
