@@ -37,7 +37,7 @@ body {
 }
 
 td {
-  padding: 3px;
+  padding: 5px;
 }
 
 .foto_perfil{
@@ -45,6 +45,10 @@ td {
    height:200px;
    border-radius:30px;
    margin-bottom:25px;
+}
+
+.text-justificat {
+  text-align:justify;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
