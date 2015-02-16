@@ -4,3 +4,15 @@
 	font-family: 'Helvetica Neue', Helvetica, sans-serif;
 	font-weight: 400;
 }
+
+.white{
+  color: #fff;
+}
+
+.white:hover{
+  color: #c4c4c4;
+}
+
+nav{
+	border-radius:0 !important;
+}

@@ -1,1 +1,2 @@
-This is the readme of my joanvila.github.io repository
+# Joan Vilà personal web page
+

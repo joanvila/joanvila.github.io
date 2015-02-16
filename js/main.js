@@ -1,6 +1,6 @@
 var cool = require('cool-ascii-faces');
-var jquery = require('jQuery');
+var bootstrap = require('bootstrap');
 
 $( document ).ready(function() {
-    $('#olakase').css("color","red");
+    $('#olakase').html(cool());
 });
