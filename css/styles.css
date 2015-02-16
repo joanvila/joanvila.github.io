@@ -5,14 +5,63 @@
 	font-weight: 400;
 }
 
+/* Header */
+
 .white{
-  color: #fff;
+  color:rgb(139,139,139);
 }
 
 .white:hover{
-  color: #c4c4c4;
+  color:rgb(255,255,255);
 }
 
 nav{
 	border-radius:0 !important;
+	margin-bottom:0 !important;
+}
+
+/* Main */
+
+.home{
+	background-color:rgb(227,217,204);
+	padding:80px;
+	text-align:center;
+}
+
+#coolFace{
+	margin-bottom:50px;
+}
+
+.home h1{
+	font-size:400%;
+}
+
+#myProfession{
+	margin-bottom:50px;
+}
+
+.about{
+	background-color:rgb(40,52,71);
+	color:white;
+}
+
+.skills{
+	background-color:rgb(227,217,204);
+}
+
+.blog{
+	background-color:rgb(40,52,71);
+	color:white;
+}
+
+.projects{
+	background-color:rgb(227,217,204);
+}
+
+/* Footer*/
+
+.footer{
+	padding:20px;
+	background-color:rgb(26,26,26);
+	color:rgb(139,139,139);
 }
