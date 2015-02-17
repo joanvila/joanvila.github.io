@@ -6,7 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="description" content="Joan Vilà Cuñat">
       <meta name="author" content="Joan Vilà Cuñat">
-      <!--<link rel="icon" href="img/favicon.ico">-->
+      <link rel="icon" href="favicon.ico">
 
       <title>Joan Vilà Cuñat</title>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
@@ -35,11 +35,11 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-              <li><a href="#">About Me</a></li>
-              <li><a href="#">Projects</a></li>
-              <li><a href="#">Contact</a></li>
-              <li><a href="#">Words</a></li>
+              <li><a id="homelnk" class="mousePointer">Home</a></li>
+              <li><a id="aboutlnk" class="mousePointer">About Me</a></li>
+              <li><a id="projectslnk" class="mousePointer">Projects</a></li>
+              <li><a id="wordslnk" class="mousePointer">Words</a></li>
+              <li><a id="contactlnk" class="mousePointer">Contact</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li><a class="btn btn-social-icon btn-github" href="https://github.com/joanvila" target="_blank"><i class="fa fa-github fa-lg white"></i></a></li>
@@ -64,29 +64,63 @@
         </div>
       </div>
       <div class="about">
-        <div class="container">
+        <div class="container mainContainer">
           <h1>About Me</h1>
           <h3>This is what I do.</h3>
+          <hr class="featurette-divider">
+          <div class="row">
+            <div class="col-md-2 col-md-offset-5">
+              <img id="thatsMe" src="img/joan.jpg" alt="Joan">
+            </div>
+          </div>
           <p>My name is Joan Vilà Cuñat and I'm a computer engineering student at FIB-UPC of Barcelona. This web page summarizes my career as a Software Engineer and tries to help other developers to achieve their goals through the blog.</p>
           <p>I was born in 1994 and I grew up in a Small town in central Catalonia called Vallferosa. I took primary school and high school in Solsona. Now, I'm currently studing computer engineering at FIB - UPC. There I have discovered my passion for coding and computer science. I'm especially focused on web development.</p>
+          <div class="row">
+            <div class="col-md-6">
+              <h3>Skills</h3>
+              <p>At this point I know the following technologies:</p>
+              <div class="container-fluid">
+                <ul class="skillsList">
+                    <li><p>HTML, CSS & JAVASCRIPT</p></li>
+                    <li><p>PHP, SQL</p></li>
+                    <li><p>MVC</p></li>
+                    <li><p>Joomla Framework & CMS</p></li>
+                    <li><p>JAVA</p></li>
+                    <li><p>C & C++</p></li>
+                    <li><p>GIT</p></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h3>Experience</h3>
+              <p>And I have worked with the following companies:</p>
+              <div class="container-fluid">
+                <ul class="skillsList">
+                    <li><p><strong>Software Engineer</strong> at JoomlaThat!<br/>January 2015 - Today. Three hours a day.</p>
+                      <p><a href="http://www.joomlathat.com" target="_blank">joomlathat.com</a></p></li>
+                    <li><p><strong>Junior PHP developer</strong> at Grup Alimentari de Guissona<br/>July 2014 - August 2014. Eight hours a day.</p></li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="projects">
-        <div class="container">
+        <div class="container mainContainer">
           <h1>Projects</h1>
           <h3>This is what I made.</h3>
           <p></p>
         </div>
       </div>
       <div class="words">
-        <div class="container">
+        <div class="container mainContainer">
           <h1>Words</h1>
           <h3>Here is where I keep my knowledge to share.</h3>
           <p></p>
         </div>
       </div>
       <div class="contact">
-        <div class="container">
+        <div class="container mainContainer">
           <h1>Contact Me</h1>
           <h3>Have questions? I have answers (maybe).</h3>
           <p></p>
@@ -100,6 +134,7 @@
         <p class="pull-left">&copy; joanvila.me</p>
       </div>
     </footer>
-    <script src="js/bundle.js"></script>
+    <script type="text/javascript" src="js/bundle.js"></script>
+    <script type="text/javascript" src="js/animatescroll.min.js"></script>
   </body>
 </html>

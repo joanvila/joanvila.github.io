@@ -50,3 +50,24 @@ $( document ).ready(function() {
 $( "#cooler" ).click(function() {
   	$('#coolFace').html(cool());
 });
+
+$( "#homelnk" ).click(function() {
+  	$('.home').animatescroll();
+});
+
+$( "#aboutlnk" ).click(function() {
+  	$('.about').animatescroll();
+});
+
+$( "#projectslnk" ).click(function() {
+  	$('.projects').animatescroll();
+});
+
+$( "#contactlnk" ).click(function() {
+  	$('.contact').animatescroll();
+});
+
+$( "#wordslnk" ).click(function() {
+  	$('.words').animatescroll();
+});
+
