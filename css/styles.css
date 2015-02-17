@@ -5,6 +5,10 @@
 	font-weight: 400;
 }
 
+p{
+	text-align:justify;
+}
+
 /* Header */
 
 .white{
@@ -23,34 +27,29 @@ nav{
 /* Main */
 
 .home{
-	background-color:rgb(227,217,204);
-	padding:80px;
+	background-color:rgb(237,227,214);
 	text-align:center;
+	min-height:370px;
+}
+
+.homeContainer{
+	vertical-align:center;
 }
 
 #coolFace{
-	margin-bottom:50px;
+	padding-bottom:50px;
 }
 
 .home h1{
-	font-size:400%;
+	font-size:350%;
 }
 
 #myProfession{
-	margin-bottom:50px;
+	padding-bottom:50px;
 }
 
 .about{
-	background-color:rgb(40,52,71);
-	color:white;
-}
-
-.skills{
-	background-color:rgb(227,217,204);
-}
-
-.blog{
-	background-color:rgb(40,52,71);
+	background-color:rgb(56,56,56);
 	color:white;
 }
 
@@ -58,10 +57,30 @@ nav{
 	background-color:rgb(227,217,204);
 }
 
+.words{
+	background-color:rgb(56,56,56);
+	color:white;
+}
+
+.contact{
+	background-color:rgb(227,217,204);
+}
+
 /* Footer*/
 
 .footer{
-	padding:20px;
+	padding:25px 0px 15px;
 	background-color:rgb(26,26,26);
 	color:rgb(139,139,139);
+}
+
+/* Media queries */
+
+@media (max-width: 900px) {
+	.btn-facebook{
+		display: none !important;
+	}
+	.btn-instagram{
+		display: none !important;
+	}
 }
