@@ -46,7 +46,7 @@ nav{
 /* Main */
 
 .home{
-	background-color:rgb(237,227,214);
+	background-image: url("../img/pentagons.png");
 	text-align:center;
 	min-height:370px;
 }
@@ -84,7 +84,7 @@ nav{
 }
 
 .projects{
-	background-color:rgb(227,217,204);
+	background-image: url("../img/pentagons.png");
 }
 
 .words{
@@ -93,7 +93,7 @@ nav{
 }
 
 .contact{
-	background-color:rgb(227,217,204);
+	background-image: url("../img/pentagons.png");
 }
 
 /* Footer*/
