@@ -15,42 +15,42 @@ $( document ).ready(function() {
 		$(this).removeClass('animated pulse');
 		switch(professionSet) {
 		    case 0:
-		        $('#myProfession').fadeOut(1000, function() {
-	  				$(this).html('Front-end Developer').fadeIn(1000);
+		        $('#myProfession').fadeOut(500, function() {
+	  				$(this).html('Front-end Developer').fadeIn(500);
 	  				$(this).addClass('animated pulse');
 	  			});
 		        ++professionSet;
 		        break;
 		    case 1:
-		    	$('#myProfession').fadeOut(1000, function() {
-	  				$(this).html('Back-end Developer').fadeIn(1000);
+		    	$('#myProfession').fadeOut(500, function() {
+	  				$(this).html('Back-end Developer').fadeIn(500);
 	  				$(this).addClass('animated pulse');
 	  			});
 		        ++professionSet;
 		        break;
 		    case 2:
-		    	$('#myProfession').fadeOut(1000, function() {
-	  				$(this).html('PHP Developer').fadeIn(1000);
+		    	$('#myProfession').fadeOut(500, function() {
+	  				$(this).html('PHP Developer').fadeIn(500);
 	  				$(this).addClass('animated pulse');
 	  			});
 		        ++professionSet;
 		        break;
 		    case 3:
-		    	$('#myProfession').fadeOut(1000, function() {
-	  				$(this).html('JavaScript Lover').fadeIn(1000);
+		    	$('#myProfession').fadeOut(500, function() {
+	  				$(this).html('JavaScript Lover').fadeIn(500);
 	  				$(this).addClass('animated pulse');
 	  			});
 		        ++professionSet;
 		        break;
 		    case 4:
-		    	$('#myProfession').fadeOut(1000, function() {
-	  				$(this).html('Software Engineer').fadeIn(1000);
+		    	$('#myProfession').fadeOut(500, function() {
+	  				$(this).html('Software Engineer').fadeIn(500);
 	  				$(this).addClass('animated pulse');
 	  			});
 		        professionSet = 0;
 		        break;
 		}
-	}, 4000);
+	}, 3200);
 
 	$( "#cooler" ).click(function() {
   		$('#coolFace').html(cool());

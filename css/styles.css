@@ -87,6 +87,12 @@ nav{
 	background-image: url("../img/pentagons.png");
 }
 
+.projectImg{
+	width:250px;
+	height:170px;
+	margin:20px 0;
+}
+
 .words{
 	background-color:rgb(56,56,56);
 	color:white;
