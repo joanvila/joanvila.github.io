@@ -98,6 +98,39 @@ nav{
 	color:white;
 }
 
+.titlePostLink{
+	text-decoration:none !important;
+	color:rgb(255,255,255);
+	font-size:40px;
+	font-weight:bold;
+}
+
+.postDate{
+	text-align:right;
+}
+
+/* Posts Pages */
+
+.postHome{
+	background-image: url("../img/pentagons.png");
+	text-align:center;
+	padding-top:80px;
+	padding-bottom:80px;
+}
+
+.postHome h1{
+	font-size:80px;
+}
+
+.mainImagePost{
+	height:100%;
+	width:100%;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+/* End posts pages */
+
 .contact{
 	background-image: url("../img/pentagons.png");
 }
