@@ -1,4 +1,5 @@
 var cool = require('cool-ascii-faces');
+var nodemailer = require('nodemailer');
 
 $( document ).ready(function() {
     $('#coolFace').html(cool());
