@@ -143,6 +143,13 @@ nav{
 	color:rgb(139,139,139);
 }
 
+#contentBodyModal{
+	font-size:70px;
+	text-align:center;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
 /* Media queries */
 
 @media (max-width: 960px) {
