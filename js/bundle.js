@@ -57,7 +57,7 @@ $( document ).ready(function() {
 	$( "#cooler" ).click(function() {
   		$('#coolFace').html(cool());
   		++clicks;
-  		if (clicks == 30){
+  		if (clicks >= 30){
   			$('#notNiceModal').modal('show');
   			window.setInterval(function(){
   				$('#contentBodyModal').html(cool());
@@ -86,7 +86,6 @@ $( document ).ready(function() {
 
 				$('#contentBodyModal').css("background-color", "#"+ColorValue);
   			}, 150);
-  			clicks = 0;
   		}
 	});
 
