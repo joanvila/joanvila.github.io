@@ -132,7 +132,8 @@ nav{
 /* End posts pages */
 
 .contact{
-	background-image: url("../img/pentagons.png");
+	background-color:rgb(26,26,26);
+	color:white;
 }
 
 /* Footer*/
