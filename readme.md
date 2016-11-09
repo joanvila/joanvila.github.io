@@ -1,11 +1,7 @@
 # Joan Vilà
 
-My personal web page
+### My personal web page
 
+Build using [Jekyll](https://jekyllrb.com).
 
-Built using:
-
-- Browserify to require cool-ascii-faces npm module
-- Bootstrap
-- Animate.css for the animations
-- WOW.js to display the animations on scroll
+Proudly using [Kiko-plus theme](https://github.com/AWEEKJ/Kiko-plus/) for Jekyll.
