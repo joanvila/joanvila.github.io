@@ -13,6 +13,7 @@ Some years ago, when I started to get involved to the software world, learning n
 Today, my perception of the world and software has changed. Although my main goal remains, other things have changed in many ways: from closed to open, from privative to open, from insecure to more secure, from vulnerable to less vulnerable. And the things that back in those days didn't matter to me like social development and free software, today are one of my greatest motivations.
 
 # Some context
+
 ---
 
 As it is shown in my self-marketing web pages AKA [About section](/about/) or [Linkedin](https://www.linkedin.com/in/joanvilacunat), I grew up in a farm where I spent my childhood playing with rocks and sticks. I studied computer engineering in [FIB](http://www.fib.upc.edu) and now I am currently working as a software engineer at [Skyscanner](https://www.skyscanner.net).
@@ -20,6 +21,7 @@ As it is shown in my self-marketing web pages AKA [About section](/about/) or [L
 Moving to a big city such as Barcelona and to live away from my parents made of me a curious guy that liked to go out with friends, to learn new things, to be always upgraded to the latest technologies and to experiment a lot. On the other hand, this reason made of me a person who didn't care a lot about the social problems, privacy and security.
 
 # Today
+
 ---
 
 My vision today has changed in a way I didn't expect and what I want to achieve is to give information to other people which I would have found very useful some time ago. What I pretend is to talk and to debate about two main topics:
@@ -36,6 +38,7 @@ On the other hand, the second point has the objective of giving opinion to **any
 
 
 ## What now?
+
 ---
 
 Being said that, the only think I'm missing to say is: **Happy coding and see you around!**

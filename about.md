@@ -11,6 +11,7 @@ Many thanks for visiting my web page.
 ## This is who I am
 
 I am Joan Vilà Cuñat,
+
 > an organism that turns caffeine and pizza into software.
 
 Right now I'm studying computer engineering at FIB-UPC Barcelona and working as a Software Engineer. This web page summarizes my career and tries to share and to remember me interesting topics about software through the blog.
@@ -50,12 +51,14 @@ I keep learning new technologies every day in order to create new software to he
 
 
 ## Projects
+
 ###### AKA Open Source projects
 
 I'm a big fan of the Open Source community and whenever I have time I build stuff on [github](https://github.com/joanvila)
 
 
 ## Contact me
+
 ###### Have questions? I have answers (maybe)
 
 You can contact me anytime by mail at vila.joan94@gmail.com.
