@@ -14,9 +14,9 @@ I am Joan Vilà Cuñat,
 
 > an organism that turns caffeine and pizza into software.
 
-Right now I'm studying computer engineering at FIB-UPC Barcelona and working as a Software Engineer. This web page summarizes my career and tries to share and to remember me interesting topics about software through the blog.
+Computer engineer build at FIB-UPC Barcelona and working as a Software Engineer. This web page summarizes my career and tries to share and to remember me interesting topics about software through the blog.
 
-I was born in 1994 and I grew up in a nice farmhouse located in the center of Catalonia. Since 2013 I'm based in Barcelona where I've been studying my bachelor. Meanwhile, I've been discovering my passion for coding and computer science and now, I try to describe myself as a **full stack software engineer**.
+I was born in 1994 and I grew up in a nice farmhouse located in the center of Catalonia. Since 2013 I'm based in Barcelona where I studied a bachelor in computer engineering. Meanwhile, I've been discovering my passion for coding and computer science and now, I try to describe myself as a **full stack software engineer**.
 
 
 ## This is what I do
@@ -38,7 +38,7 @@ I keep learning new technologies every day in order to create new software to he
 ##### The experience I have:
 
 [Skyscanner](https://www.skyscanner.net)
-: Intern software Engineer
+: Software Engineer
 : July 2016 - **Today**
 
 [JoomlaThat!](http://www.joomlathat.com)
