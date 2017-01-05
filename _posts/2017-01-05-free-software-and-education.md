@@ -9,7 +9,7 @@ share: true
 ---
 
 
-This morning, I was talking with my little sister. She was explaining to me that she is learning computer tools at school. Office tools are the current topic. I asked her which skills was she learning and it didn't surprise me that the response was the name of a well known privative tool used to write documents.
+Some days ago, I was talking with a little girl relative of mine. She was explaining to me that she is learning computer things at school. Office tools are the current topic. I asked her which skills was she learning and it didn't surprise me that the response was the name of a well known privative tool used to write documents.
 
 # What's wrong with this?
 
