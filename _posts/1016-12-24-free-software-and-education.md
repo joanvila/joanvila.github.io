@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "Free software and education"
-description: "[5 minutes] &nbsp; Some reflections about free software in the education area"
-date: 2016-12/24
-tags: [free software, lifestyle]
+description: "[10 minutes] &nbsp; Some reflections about free software in the education area"
+date: 2017-01/05
+tags: [free software, education]
 comments: true
 share: true
 ---
 
 
-This morning, I was talking to my little sister. She was explaining to me that she is learning informatics at school. Ofimatics is the current topic. I asked her which skills was she learning. I didn't surprise me that the response was the name of a well known privative tool used to write documents.
+This morning, I was talking with my little sister. She was explaining to me that she is learning computer tools at school. Office tools are the current topic. I asked her which skills was she learning and it didn't surprise me that the response was the name of a well known privative tool used to write documents.
 
 # What's wrong with this?
 
 ---
 
-As you may think, there's nothing wrong on teaching ofimatics at school. I would say that it is useful for the kids. But looking deeply into it, maybe the way it is done is not the appropriate.
+As you may think, there's nothing wrong on teaching these topics at school. I would say that it is useful for the kids. But looking deeply into it, maybe the way it is done is not the most appropriate.
 
 The thing is that teaching the children on how to use a specific tool rather than the concepts, makes them dependent to the tool. Moreover, when the tool is privative, they are being submitted to it's owner willings.
 
@@ -23,15 +23,15 @@ Before continuing reading, if you are not sure what free software stands for, he
 
 > Free software developers guarantee everyone equal rights to their programs; any user can study the source code, modify it, and share the program.
 
-So now, let's see point by point what's the situation I wanted to explain:
+So now, let's see point by point what's the situation I want to share:
 
 ## Submission to the tool
 
 I still remember one of the first days in the university when a teacher told us:
 
-> Here, you won't learn how to use the cool technologies you can find out there, we won't teach you how to use the tools you will find in the real world. Instead of that, you will learn the concepts behind. You will be learn to learn.
+> Here, you won't learn how to use the cool technologies you can find out there, we won't teach you how to use the tools you will find in the real world. Instead of that, you will learn the concepts behind. You will learn to learn.
 
-At the beginning, I wasn't sure if this was going to be good. Indeed, many of my colleagues, still think that this wasn't a good teaching methodology. However, for us, there is no problem at all when it comes to learning new tools and new programming languages these days.
+At the beginning, I wasn't sure if this was going to be the best. Indeed, many of my colleagues, still think that this wasn't a good teaching methodology. However, for us, there is no problem at all when it comes to learning new tools and new programming languages these days.
 
 #### What I'm trying to say
 
@@ -41,17 +41,17 @@ This means that in the future, she will need to pay the price they will ask, and
 
 ## No equality between the children
 
-Now that we have seen the first problem, we need to be aware about one of the the social consequence of it. For explaining it, I'm going to put an example:
+Now that we have seen the first problem, we need to be aware about the the social consequences of it. For explaining it, I'm going to put an example:
 
 Let's imagine that the teacher proposes the children to write a document explaining some topic. In this situation, there are three ways to write the document and to get the program to do so:
 
 - Some children will be able to afford the license price of the software taught at class. Those will have no problems.
 - The second ones, won't be able to afford the license but will have a relative in their family that can get them an illegal copy for free.
-- On the other hand, the last ones that can't afford the software and don't have a relative who can get an illegal copy of it for free, will need to use a free tool (free for zero price) which most likely will be free software and the document will be delivered to the teacher in a free format.
+- On the other hand, the last ones that won't be able afford the software and don't have a relative who can get an illegal copy of it for free, will need to use a free tool (free for zero price in this case) which most likely will be free software and the document will be delivered to the teacher in an open format.
 
-This shouldn't be the problem but the issue comes when the teacher (using the privative tool) will open the document of the third child and it won't look as beautiful as the ones delivered by the first two children.
+This shouldn't be the problem but the issue comes when the teacher (using the privative tool) will opens the document of the third child and it won't look as beautiful as the ones delivered by the first two children.
 
-Why does this happen? Because the privative tool doesn't want anybody to use free software and they are abusing of the power they have in society by blocking other solutions.
+Why does this happen? Because the privative tool doesn't want anybody to use free software and they are abusing of the power and situation they have in society by blocking the other solutions.
 
 As a consequence, the last group of children will not be able to have the same mark for the same work as the first two.
 
@@ -72,14 +72,14 @@ Being said that, free software provides more advantages in the education field. 
 
 As we can see, the first freedom gives the children the control of the programs and doesn't submit them to the willings of the owners of the program.
 
-The second freedom is good for the curious children. The ones that are interested in technology and want to know how the programs work. With this freedom, they will be able to study the source code and the teacher can help them to do so. Born programmers, at the age of 12 will be very grateful to be able to understand how the program works.
+The second freedom is good for curious kids. The ones that are interested in technology and want to know how a program works. With this freedom, they will be able to study the source code and the teacher can help them to do so. Born programmers will be very grateful to be able to understand how the software works.
 
-We've been saying that there must be equality between the children, so the third freedom provides this right. Sharing is a good thing and when it comes to software it shouldn't be different.
+We've been saying that there must be equality between children, so the third freedom provides this right. Sharing is a good thing and when it comes to software it shouldn't be different.
 
 # Conclusion
 
-With this post, I'm not saying that privative software is always evil. In many areas, this kind of software is useful and necessary. However, not in school.
+Children should be given the ability to choose which option fits better in each case. They should be taught the advantages and disadvantages of using a privative software against a free software solution instead of teaching them how to use only the privative ones.
 
-Children should be given the ability to choose which option fits better in each case. They should be taught the advantages and disadvantages of using a privative software instead of a free software solution instead of teaching them how to use the privative ones.
+Changing from free software to privative software is easy. However, changing from privative software to free software is difficult because the owners of the privative one don't want and will coerce the users to stay with them.
 
-Changing from free software to privative software is easy. However, changing from privative software to free software is difficult because the owners of the privative one don't want and will coerce the users to not change.
+To finish the post, I would like to remark that privative software is NOT always evil. In many areas, this kind of software is useful and necessary. However, not in school.
