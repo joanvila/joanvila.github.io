@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I'm doing this"
-description: "[3 minutes] &nbsp; What do I want to achieve with this blog"
+description: "[4 minutes] &nbsp; What do I want to achieve with this blog"
 date: 2016-11-09
 tags: [free software, lifestyle]
 comments: true

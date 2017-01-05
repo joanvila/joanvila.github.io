@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Free software and education"
-description: "[10 minutes] &nbsp; Some reflections about free software in the education area"
-date: 2017-01/05
+description: "[8 minutes] &nbsp; Some reflections about free software in the education area"
+date: 2017-01/04
 tags: [free software, education]
 comments: true
 share: true
