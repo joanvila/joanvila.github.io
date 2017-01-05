@@ -35,7 +35,7 @@ At the beginning, I wasn't sure if this was going to be the best. Indeed, many o
 
 #### What I'm trying to say
 
-What I mean is that my sister will know how to write beautiful documents with that tool but she won't be able to extrapolate the concepts to another one. So for this reason, she will be always tied to the company that provides the document editor.
+What I mean is that my sister will know how to write beautiful documents with that tool but she won't be able to **extrapolate the concepts** to another one. So for this reason, she will be always tied to the company that provides the document editor.
 
 This means that in the future, she will need to pay the price they will ask, and what is more important, she will be working the way specified for the software. Not the way she wants.
 
@@ -53,7 +53,7 @@ This shouldn't be the problem but the issue comes when the teacher (using the pr
 
 Why does this happen? Because the privative tool doesn't want anybody to use free software and they are abusing of the power and situation they have in society by blocking the other solutions.
 
-As a consequence, the last group of children will not be able to have the same mark for the same work as the first two.
+As a consequence, **the last group of children will not be able to have the same mark for the same work** as the first two.
 
 #### How to solve the problem
 
@@ -72,7 +72,7 @@ Being said that, free software provides more advantages in the education field. 
 
 As we can see, the first freedom gives the children the control of the programs and doesn't submit them to the willings of the owners of the program.
 
-The second freedom is good for curious kids. The ones that are interested in technology and want to know how a program works. With this freedom, they will be able to study the source code and the teacher can help them to do so. Born programmers will be very grateful to be able to understand how the software works.
+The second freedom is good for **curious kids**. The ones that are interested in technology and want to know how a program works. With this freedom, they will be able to study the source code and the teacher can help them to do so. Born programmers will be very grateful to be able to understand how the software works.
 
 We've been saying that there must be equality between children, so the third freedom provides this right. Sharing is a good thing and when it comes to software it shouldn't be different.
 
@@ -82,4 +82,4 @@ Children should be given the ability to choose which option fits better in each 
 
 Changing from free software to privative software is easy. However, changing from privative software to free software is difficult because the owners of the privative one don't want and will coerce the users to stay with them.
 
-To finish the post, I would like to remark that privative software is NOT always evil. In many areas, this kind of software is useful and necessary. However, not in school.
+To finish the post, I would like to remark that **privative software is NOT always evil**. In many areas, this kind of software is useful and necessary. However, not in school.
