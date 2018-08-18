@@ -12,16 +12,18 @@ Many thanks for visiting my web page.
 
 I am Joan Vilà Cuñat,
 
-> an organism that turns caffeine and pizza into software.
+> an organism that turns caffeine and pizza into scalable and reliable software.
 
-Computer engineer build at FIB-UPC Barcelona and working as a Software Engineer. This web page summarizes my career and tries to share and to remember me interesting topics about software through the blog.
+Computer engineer assembled at FIB-UPC Barcelona and working as a Software Engineer.
+This web page summarizes my career and tries to share and to remember me interesting topics about software through the blog.
 
-I was born in 1994 and I grew up in a nice farmhouse located in the center of Catalonia. Since 2013 I'm based in Barcelona where I studied a bachelor in computer engineering. Meanwhile, I've been discovering my passion for coding and computer science and now, I try to describe myself as a **full stack software engineer**.
+I was born in 1994 and I grew up in a nice farmhouse located in the center of Catalonia. Since 2013 I'm based in Barcelona where I studied a bachelor in computer engineering discovering my passion for coding and computer science. Nowadays, I describe myself as a **full stack software engineer**.
 
 
 ## This is what I do
 
-Since I was a child I've loved technology and computers. But when I went to the university, I discovered my passion for programming. Now, I enjoy everything related to software development and security.
+Since I was a child I've loved technology and computers. But when I went to the university, I discovered my passion for programming.
+Now, I enjoy everything related to software development, cloud distributed architecture and security.
 
 I keep learning new technologies every day in order to create new software to help me and others for the every-day life.
 
@@ -29,11 +31,11 @@ I keep learning new technologies every day in order to create new software to he
 
 - Object oriented programming
 - Prototype oriented programming
-- Full Stack web development
-- Agile methodologies
-- Version control (git)
-- Continuous integration environments
-- Computer security
+- Full Stack development - React Native, React.js, NodeJS, Python
+- Building scalable and reliable cloud based architecture - AWS
+- Lean and agile practices - Scrum Master experience
+- Continuous integration and continuous delivery
+- Product security
 
 ##### The experience I have:
 
@@ -46,16 +48,26 @@ I keep learning new technologies every day in order to create new software to he
 : January 2015 - June 2016
 
 [Grup Alimetari de Guissona](http://www.cag.es)
-: Intern PHP developer
-: July 2014 - August 2014
+: Intern Software Engineer
+: Summer 2014
 
 
 ## Projects
 
 ###### AKA Open Source projects
 
-I'm a big fan of the Open Source community and whenever I have time I build stuff on [github](https://github.com/joanvila)
+I'm a big fan of the Open Source community and whenever I have time I build stuff on [github](https://github.com/joanvila).
 
+#### [Aioredlock](https://github.com/joanvila/aioredlock)
+
+The redlock algorithm is a distributed lock implementation for Redis.
+There are many implementations of it in several languages. In this case, this is the asyncio compatible implementation for python 3.5+.
+
+#### [raml-js-validator](https://github.com/joanvila/raml-js-validator)
+
+Simple RAML 1.0 validator that reads a file containing an API definition and performs a query to each endpoint to check that the RAML matches the backend implementation.
+It pretends to be a way to prevent the RAML file to be outdated by triggering an error when it doesn't mach with the API.
+It can be used manually or in a CI environment in order to check the consistency on every build.
 
 ## Contact me
 
