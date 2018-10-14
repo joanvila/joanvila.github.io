@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Running acceptance tests in the CI pipeline. A painless love story"
+title: "Acceptance tests in CI. A painless love story"
 description: "[4 minutes] &nbsp; Enabling running end to end tests in the CI pipeline for continuous deployment"
 date: 2018-10-12
 tags: [nodejs, testing, continuous integration, continuous deployment]
