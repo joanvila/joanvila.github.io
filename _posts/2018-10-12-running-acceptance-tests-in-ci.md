@@ -57,8 +57,9 @@ This process will be almost transparent for the developers but it works under th
 
 If you own a NodeJS service this is your lucky day. There is an npm package that does the magic for you:
 
-Repo: https://github.com/joanvila/nock-back-ci
-Npm package: https://www.npmjs.com/package/nock-back-ci
+Repo: [github.com/joanvila/nock-back-ci](https://github.com/joanvila/nock-back-ci)
+
+Npm package: [npmjs.com/package/nock-back-ci](https://www.npmjs.com/package/nock-back-ci)
 
 Although there are some bits and pieces missing, the package is fully usable and it’s already being used to test some micro-services at Skyscanner.
 

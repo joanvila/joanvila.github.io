@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Some years ago, when I started to get involved to the software world, learning new things and new programming languages was my main goal. I was some kind of curious *child* who was dreaming about working in one of the biggest companies in the world, programming with the coolest and newest languages in that every moment. By that time, I used to happily *code* C++ and some Java on my brand new Macbook Air which at that time was in my eyes, *the perfect tool to do so*.
+Some years ago, when I started to get involved to the software world, learning new things and new programming languages was my main goal. I was some kind of curious *child* who was dreaming about working in one of the biggest companies in the world, programming with the coolest and newest languages in that every moment.
 
 Today, my perception of the world and software has changed. Although my main goal remains, other things have changed in many ways: from closed to open, from insecure to more secure, from vulnerable to less vulnerable. And the things that back in those days didn't matter to me like social development, privacy and security and, today are some of my greatest motivations.
 
