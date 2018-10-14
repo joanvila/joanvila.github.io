@@ -63,6 +63,11 @@ I'm a big fan of the Open Source community and whenever I have time I build stuf
 The redlock algorithm is a distributed lock implementation for Redis.
 There are many implementations of it in several languages. In this case, this is the asyncio compatible implementation for python 3.5+.
 
+#### [nock-back-ci](https://github.com/joanvila/nock-back-ci)
+
+As responsible developers, it is our duty to test our services with acceptance tests to simulate real traffic.
+This tool enables running end to end tests in the continuous integration pipeline for continuous deployment environments in a painless way.
+
 #### [raml-js-validator](https://github.com/joanvila/raml-js-validator)
 
 Simple RAML 1.0 validator that reads a file containing an API definition and performs a query to each endpoint to check that the RAML matches the backend implementation.
